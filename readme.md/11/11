@@ -1,0 +1,12 @@
+Nim 2022510014
+Nama Maya Sansilia
+Kelompok SI2K
+
+Menurut kesimpulan saya :
+-penambahan menu atau perubahan layout pada web
+-membuat link untuk memanggil konten secara dinamis
+-direktori kerja php untuk demo perkuliahan
+-localhost/2021/E/DPW/Demo  &  c:/xampp/htdocs/2021/E/DPW/Demo
+-file index.php yg dibuka melalui URL
+-file konten adalah file khusus konten
+-file kontainer adalah file layout halaman web yg menapung file konten
